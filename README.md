@@ -1,5 +1,5 @@
 # VisualInsights-Tableau
-This repository contains data visualizations I created during my academic studies.
+This repository contains data visualizations I created during my academics.
 
 I developed a visualization tool using Tableau to represent global COVID-19 statistics. The tool showcases key metrics such as the average number of positive cases, new cases, daily deaths, and new deaths per country. It includes interactive features like:
 
