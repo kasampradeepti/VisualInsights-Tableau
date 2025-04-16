@@ -31,6 +31,7 @@ Detailed table showing COVID-19 case counts per state/province.
 
 
 📊 **Sales Data Visualization Dashboard**
+
 This project features a comprehensive sales data visualization built using Tableau. The visualizations provide insights into sales performance across categories, sub-categories, regions, ship modes, and time periods.
 
 **📌 Dashboard Overview**
